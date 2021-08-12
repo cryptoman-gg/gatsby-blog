@@ -24,23 +24,28 @@ const config = {
       iconClassName: 'fab fa-github',
     },
     {
-      label: 'mail',
-      url: 'mailto:navy90517@gmail.com',
-      iconClassName: 'fa fa-envelope',
+      label: 'youtube',
+      url: 'https://www.youtube.com/channel/UCmXYs5LoNUMLXiqe99e-FHQ',
+      iconClassName: 'fa fa-youtube',
     },
     {
-      label: 'facebbok',
-      url: 'https://www.facebook.com/louis.peng.58?ref=bookmarks',
-      iconClassName: 'fab fa-facebook',
+      label: 'twitter',
+      url: 'https://twitter.com/takutyan_ut',
+      iconClassName: 'fab fa-twitter',
     },
     {
       label: 'instagram',
-      url: 'https://www.instagram.com/n_louis_peng/?hl=zh-tw',
+      url: 'https://www.instagram.com/takutyan_ut/',
       iconClassName: 'fab fa-instagram',
     },
   ],
   // Links to pages you want to display in the navigation bar.
   navbarLinks: [
+    {
+      label: 'new',
+      url: '/',
+      iconClassName: 'far fa-file',
+    },
     {
       label: 'Archives',
       url: '/archives',
