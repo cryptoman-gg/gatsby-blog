@@ -44,7 +44,7 @@ const config = {
     {
       label: 'new',
       url: '/',
-      iconClassName: 'fas fa-book-open',
+      iconClassName: 'fas fa-file',
     },
     {
       label: 'Archives',
