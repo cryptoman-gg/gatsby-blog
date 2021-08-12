@@ -412,6 +412,9 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-book-open:before {
   content: fa-content($fa-var-book-open);
 }
+.#{$fa-css-prefix}-file:before {
+  content: fa-content($fa-var-file);
+}
 .#{$fa-css-prefix}-book-reader:before {
   content: fa-content($fa-var-book-reader);
 }
@@ -2040,6 +2043,12 @@ readers do not read off random characters that represent icons */
 }
 .#{$fa-css-prefix}-instagram:before {
   content: fa-content($fa-var-instagram);
+}
+.#{$fa-css-prefix}-twitter:before {
+  content: fa-content($fa-var-twitter);
+}
+.#{$fa-css-prefix}-youtube:before {
+  content: fa-content($fa-var-youtube);
 }
 .#{$fa-css-prefix}-intercom:before {
   content: fa-content($fa-var-intercom);
