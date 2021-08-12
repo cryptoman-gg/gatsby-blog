@@ -26,7 +26,7 @@ const config = {
     {
       label: 'youtube',
       url: 'https://www.youtube.com/channel/UCmXYs5LoNUMLXiqe99e-FHQ',
-      iconClassName: 'fa fa-youtube',
+      iconClassName: 'fab fa-youtube',
     },
     {
       label: 'twitter',
