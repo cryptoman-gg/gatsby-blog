@@ -2,7 +2,7 @@
 title: "仮想通貨を始めるならコインチェック！"
 date: "2021-08-13"
 category: "仮想通貨"
-cover: "/images/8.webp"
+cover: "/images/1.webp"
 tags:
   - 取引所
   - コインチェック
