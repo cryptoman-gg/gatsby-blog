@@ -1,7 +1,7 @@
 ---
 title: 仮想通貨を始めるならコインチェック！
 date: 2021-08-13
-cover: /images/people-on-train-station-3412360.jpg
+cover: /images/8.webp
 category: 仮想通貨
 tags:
   - 取引所
